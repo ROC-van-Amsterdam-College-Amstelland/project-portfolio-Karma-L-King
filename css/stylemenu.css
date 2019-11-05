@@ -1,43 +1,46 @@
- header nav ul li{
-   
+header nav ul li {
     float: center;
     width: 200px;
-    height: 40px;
-    background-color:black;    
-    
-    
-
+    height: 100%;
+    background-color: black;
 }
-header nav ul{
+
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+header nav ul {
     margin: 0%;
     padding: 0%;
     list-style: none;
     opacity: .8;
     line-height: 40px;
     text-align: center;
-    font-size:20px;
-    
-    
+    font-size: 20px;
 }
+
 a {
-    text-decoration:none;
+    text-decoration: none;
     color: white;
     display: block;
 }
-header nav ul li a:hover{
-    background-color:green;
 
+header nav ul li a:hover {
+    background-color: green;
 }
-footer  {
-    position: fixed;
+
+footer {
     left: 0;
+    right: 0;
     bottom: 0;
     width: 100%;
     background-color: black;
     color: white;
     text-align: center;
-  }
-  
-  footer ul{
+    overflow: hidden;
+}
+
+footer ul {
     list-style-type: none;
-  }
+}
