@@ -1,4 +1,4 @@
-let imagesList = ["photo.jpeg", "photo2.jpeg", "photo3.jpg"];
+let imagesList = ["fayza.jpg", "logo.jpeg", "Hueyfreeman-jpg.png"];
 let current = 0;
 
 document.addEventListener('DOMContentLoaded', event=>{
