@@ -1,26 +1,29 @@
-
 body {
     background-image: url('../images/nature3.jpg');
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
-    color:black;
+    color: white;
 }
 
-
-h1, p{
-    color:black;
+h1,
+p {
+    color: rgb(73, 58, 58);
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    
 }
 
-
 a {
-    text-decoration:none;
+    text-decoration: none;
     color: red;
 }
 
-#gallery{
-    
+#gallery {
     text-align: center;
+}
+
+#tekst {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 650px;
 }
