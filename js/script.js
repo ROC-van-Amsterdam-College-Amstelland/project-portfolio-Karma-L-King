@@ -10,5 +10,6 @@ function clickCounter() {
             localStorage.clickcount = 1;
         }
         document.getElementById("result").innerHTML = "You have clicked the button " + localStorage.clickcount + " time(s).";
+        document.getElementById("Button1").style.backgroundColor = "green";
     }
 }
