@@ -2,5 +2,25 @@ body {
     background-image: url('../images/nature3.jpg');
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
-    color:white;
+    color: white;
+}
+
+#tekst {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 650px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#pics {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 200px;
+    left: 600px;
 }
