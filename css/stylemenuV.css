@@ -44,3 +44,15 @@ footer {
 footer ul {
     list-style-type: none;
 }
+
+.result {
+    color: white;
+}
+
+#button1:hover {
+    background-color: green;
+}
+
+#button2:hover {
+    background-color: red;
+}

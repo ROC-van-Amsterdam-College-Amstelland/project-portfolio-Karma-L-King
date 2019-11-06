@@ -44,3 +44,11 @@ header nav ul li a:hover {
 #footer ul {
     list-style-type: none;
 }
+
+#button1:hover {
+    background-color: green;
+}
+
+#button2:hover {
+    background-color: red;
+}

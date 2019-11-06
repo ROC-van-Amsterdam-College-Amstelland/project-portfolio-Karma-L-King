@@ -2,12 +2,12 @@ body {
     background-image: url('../images/nature3.jpg');
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
-    color: white;
+    color: black;
     text-align: center;
 }
 
 .contact a {
-    color: white;
+    color: black;
 }
 
 input[type=text],
